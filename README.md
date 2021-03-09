@@ -1,9 +1,11 @@
 # How to style the MasterDetailView expander cell and icon in WPF DataGrid (SfDataGrid)?
 ## About the sample
-This example illustrates how to style the MasterDetailView expander cell and icon in WPF DataGrid.
 
-SfDataGrid allows you to style the DetailsViewDataGrid expander cell and icon. You can change the expander cell border color by overriding the [GridDetailsViewExpanderCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridDetailsViewExpanderCell.html),[GridDetailsViewIndentCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridDetailsViewIndentCell.html) and [GridHeaderIndentCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridHeaderIndentCell.html) cells and change the BorderBrush property. 
-Also you can change the DetailsViewDataGrid expander icon by change the Path property of GridDetailsViewExpanderCell.
+This example illustrates how to style the MasterDetailView expander cell and icon in [WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid).
+
+[WPF DataGrid](https://www.syncfusion.com/wpf-ui-controls/datagrid) (SfDataGrid) alloes you to change the style of expander cell and icon using [DetailsViewDataGrid](http://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Grid.DetailsViewDataGrid.html). You can change the expander cell border color by overriding the [GridDetailsViewExpanderCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridDetailsViewExpanderCell.html),[GridDetailsViewIndentCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridDetailsViewIndentCell.html) and [GridHeaderIndentCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridHeaderIndentCell.html) cells and change the BorderBrush property. 
+
+You can also change the `DetailsViewDataGrid` expander icon by change the Path property of [GridDetailsViewExpanderCell](https://help.syncfusion.com/cr/cref_files/wpf/Syncfusion.SfGrid.WPF~Syncfusion.UI.Xaml.Grid.GridDetailsViewExpanderCell.html).
 
 ```XAML
 <Window.Resources>
