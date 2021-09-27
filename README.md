@@ -103,6 +103,8 @@ You can also change the `DetailsViewDataGrid` expander icon by change the Path p
             </Setter.Value>
         </Setter>
     </Style>```
+ 
+KB article - [How to style the MasterDetailView expander cell and icon in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/11423/how-to-style-the-masterdetailview-expander-cell-and-icon-in-wpf-datagrid-sfdatagrid)
 
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
